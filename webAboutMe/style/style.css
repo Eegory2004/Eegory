@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Gotham Pro;
+}
+.header{
+    height: 50px;
+    background-color: #383258;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 110px;
+}
+.nav-head{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+}
+.section1{
+    background-color: #2E2B3E;
+    height: 300px;
+    text-align: center;
+}
+.eegory{
+    display: inline-block;
+    color: white;
+    font-size: 50px;
+    font-weight: 300;
+}
+.welcome{
+    color: white;
+    font-size: 32px;
+    font-weight: 300;
+    margin-top: -20px;
+}
+.life{
+    color: white;
+    font-size: 35px;
+    font-weight: 100;
+    margin-top: 70px;
+    font-style: italic;
+}
+.section2{
+    text-align: center;
+}
+.aboutMe{
+    display: inline-block;
+    font-size: 36px;
+    font-weight: 300;
+    margin-top: 50px;
+}
+.p-me{
+    font-size: 30px;
+    font-weight: 300;
+    margin-top: -8px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
